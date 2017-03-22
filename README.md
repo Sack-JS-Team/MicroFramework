@@ -5,6 +5,6 @@ Usage:
 ```html
 <script src="sackFramework.js"></script>
 <script>
-    $("sackElement");
+    $("#sackElement");
 </script>
 ```
