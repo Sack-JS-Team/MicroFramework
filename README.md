@@ -1,5 +1,5 @@
 # SackJS Micro Framework
-... for when you just don't want to type out ``` document.getElementById() ```
+... for when you just don't want to get the whole jQuery libs.
 
 Usage:
 ```html
